@@ -7,19 +7,21 @@ Department: Informatics
 # Screenshots
 ## Data in Pycharm
 ![](./screenshots/pycharm-database.png)
-## Homepage
-![](./screenshots/homepage-1.png)
-## View Card
-![](./screenshots/view.png)
-## New Data 
+## Postman List all
+![](./screenshots/Screen%20Shot%202020-11-25%20at%202.50.04%20PM.png)
+## Postman View 1
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.11.10%20PM.png)
+## New Data
 ### New view
-![](./screenshots/new.png)
+![](./screenshots/Screen%20Shot%202020-11-25%20at%202.50.59%20PM.png)
 ### New Result
-![](./screenshots/new-result.png)
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.13.59%20PM.png)
 ## Edit 
-![](./screenshots/edit-1.png)
-![](./screenshots/edit-2.png)
-![](./screenshots/edit-3.png)
+### Edit view
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.12.04%20PM.png)
+### Edit Result
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.12.48%20PM.png)
+
 ## Delete
-![](./screenshots/delete.png)
-![](./screenshots/delete-1.png)
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.14.33%20PM.png)
+![](./screenshots/Screen%20Shot%202020-11-25%20at%203.24.18%20PM.png)
